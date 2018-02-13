@@ -4,9 +4,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 15.0.27130.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E889C617-FF96-4E42-AB1D-E69C1048E4E3}"
-	ProjectSection(SolutionItems) = preProject
-		OrbPy.zip = OrbPy.zip
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
