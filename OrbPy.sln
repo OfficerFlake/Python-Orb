@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E889C617-FF96-4E42-AB1D-E69C1048E4E3}"
+	ProjectSection(SolutionItems) = preProject
+		E:\Google Drive\Dwayne Brumby\Code Projects\OrbPy.zip = E:\Google Drive\Dwayne Brumby\Code Projects\OrbPy.zip
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0669E016-1833-4253-B66E-91A3BCC3EEA6}
+	EndGlobalSection
+EndGlobal
